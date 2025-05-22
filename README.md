@@ -44,7 +44,6 @@ tempusFugit -(https://github.com/Ivnme17/tempusFugit)  –  "Porque el tiempo vu
 
 📩 ¿Quieres hablar de código, memes o pizza? �
 📧 Email: ivnm17@gmail.com (Respondo más rápido que un API bien optimizada)
-[ivnm17@gmail.com]
 
 💼 LinkedIn: Iván Martínez Estrada (Sí, tengo perfil formal... a veces)
 [https://www.linkedin.com/in/iv%C3%A1n-mart%C3%ADnez-estrada-408065342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
