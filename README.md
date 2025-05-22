@@ -4,6 +4,7 @@
 
 Bienvenid@ a mi rincón geek de GitHub, donde los commits vuelan y los bugs... bueno, esos se quedan un rato 😅.
 
+
 😜 Sobre mí (la versión resumida)
 
 � Full-stack dev (o eso intento) con skills en SQL, PHP, Java y JS.
@@ -13,6 +14,7 @@ Bienvenid@ a mi rincón geek de GitHub, donde los commits vuelan y los bugs... b
 🤖 Futuro amigo de las IAs (espero que no se rebelen).
 
 📚 Entrenando en la Habitación del Tiempo del código.
+
 
 🛠️ Mis herramientas favoritas
 ✨SQL✨
@@ -25,6 +27,7 @@ Bienvenid@ a mi rincón geek de GitHub, donde los commits vuelan y los bugs... b
 
 (Sí, sé que hay más, pero estos son mis main) 💪
 
+
 📊 Mis stats en GitHub (pa' presumir)
 ![Ivnme17's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivnme17&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivnme17&layout=compact&theme=radical)
@@ -32,8 +35,10 @@ Bienvenid@ a mi rincón geek de GitHub, donde los commits vuelan y los bugs... b
 
 (Spoiler: A veces solo estoy aquí por los commits verdes 🟩)
 
+
 🎯 Proyectos que no me dejaron dormir
 tempusFugit -(https://github.com/Ivnme17/tempusFugit) – "Porque el tiempo vuela... y a veces crashea" ⏳💥
+
 
 📩 ¿Quieres hablar de código, memes o pizza? �
 📧 Email: ivnm17@gmail.com (Respondo más rápido que un API bien optimizada)
