@@ -18,6 +18,7 @@ Bienvenid@ a mi rincón geek de GitHub, donde los commits vuelan y los bugs... b
 
 🛠️ Mis herramientas favoritas
 ✨SQL✨
+
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
@@ -29,6 +30,7 @@ Bienvenid@ a mi rincón geek de GitHub, donde los commits vuelan y los bugs... b
 
 
 📊 Mis stats en GitHub (pa' presumir)
+
 ![Ivnme17's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivnme17&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivnme17&layout=compact&theme=radical)
 
