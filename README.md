@@ -42,7 +42,7 @@ Bienvenid@ a mi rincón geek de GitHub, donde los commits vuelan y los bugs... b
 tempusFugit -(https://github.com/Ivnme17/tempusFugit)  –  "Porque el tiempo vuela... y a veces crashea" ⏳💥
 
 
-📩 ¿Quieres hablar de código, memes o pizza? �
+📩 ¿Quieres hablar de código? �
 📧 Email: ivnm17@gmail.com (Respondo más rápido que un API bien optimizada)
 
 💼 LinkedIn: Iván Martínez Estrada (Sí, tengo perfil formal... a veces)
