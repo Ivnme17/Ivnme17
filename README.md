@@ -39,7 +39,7 @@ Bienvenid@ a mi rincón geek de GitHub, donde los commits vuelan y los bugs... b
 
 
 🎯 Proyectos que no me dejaron dormir
-tempusFugit -(https://github.com/Ivnme17/tempusFugit) – "Porque el tiempo vuela... y a veces crashea" ⏳💥
+tempusFugit -(https://github.com/Ivnme17/tempusFugit)  –  "Porque el tiempo vuela... y a veces crashea" ⏳💥
 
 
 📩 ¿Quieres hablar de código, memes o pizza? �
