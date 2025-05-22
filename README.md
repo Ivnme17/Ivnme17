@@ -3,10 +3,10 @@
 Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnología, el aprendizaje constante y la colaboración en proyectos innovadores.
 
 ## 🚀 Sobre mí
-- 🧑‍💻 Desarrollador de software con experiencia en [lenguajes o tecnologías que uses, ej: JavaScript, PHP, Java].
+- 🧑‍💻 Desarrollador de software con experiencia en SQL, PHP, Java, JavaScript.
 - 🎯 Apasionado por el desarrollo web, la automatización y la inteligencia artificial.
 - 💡 Interesado en contribuir a proyectos open source y aprender nuevas tecnologías.
-- 📚 Actualmente aprendiendo: [Tecnología o framework que estés aprendiendo].
+- 📚 En continuo aprendizaje.
 
 ## 🛠️ Tecnologías y herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
