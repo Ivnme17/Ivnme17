@@ -48,6 +48,6 @@ tempusFugit -(https://github.com/Ivnme17/tempusFugit)  –  "Porque el tiempo vu
 💼 LinkedIn: Iván Martínez Estrada (Sí, tengo perfil formal... a veces)
 [https://www.linkedin.com/in/iv%C3%A1n-mart%C3%ADnez-estrada-408065342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
-¡Gracias por pasarte! Si leíste hasta aquí, mereces un café virtual ☕ (o un console.log("🥇")).
+¡Gracias por pasarte! Si leíste hasta aquí, mereces una semilla del hermitaño (o un console.log("🌱")).
 
 "Commit y sin sueño" 💻🌙
