@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/84c9631e-18a9-48f3-9780-1184b7814bae)
+![image](https://github.com/user-attachments/assets/df6754eb-cd46-488d-be09-c905c4d9e410)
 
 
 ✨ Hola caracola, soy Iván! ✨
