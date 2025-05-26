@@ -1,8 +1,6 @@
 ✨ Hola caracola, soy Iván! ✨
 
-"EXCELSIOR" 🤓
-
-Bienvenid@ a mi rincón geek de GitHub, donde los commits vuelan y los bugs... bueno, esos se quedan un rato 😅.
+Bienvenid@ a mi GitHub, donde los commits vuelan y los bugs... bueno, esos se quedan un rato 😅.
 
 
 😜 Sobre mí (la versión resumida)
