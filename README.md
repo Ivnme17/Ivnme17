@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b7bb9815-5410-4729-a817-a3a78233dca8)
+
 ✨ Hola caracola, soy Iván! ✨
 
 Bienvenid@ a mi GitHub, donde los commits vuelan y los bugs... bueno, esos se quedan un rato 😅.
