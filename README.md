@@ -34,7 +34,7 @@ Bienvenid@ a mi perfil de GitHub.
 
 ### Proyectos destacados
 
-- [tempusFugit](https://github.com/Ivnme17/tempusFugit): Gestión del tiempo y productividad.
+- [tempusFugit](https://github.com/Ivnme17/tempusFugit): Aplicación E-commerce.
 
 ---
 
