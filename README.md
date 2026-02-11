@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/df6754eb-cd46-488d-be09-c905c4d9e410)
 
-
 ✨ Hola, soy Iván. ✨
 
 Bienvenid@ a mi perfil de GitHub.
@@ -21,6 +20,8 @@ Bienvenid@ a mi perfil de GitHub.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
@@ -35,6 +36,8 @@ Bienvenid@ a mi perfil de GitHub.
 ### Proyectos destacados
 
 - [tempusFugit](https://github.com/Ivnme17/tempusFugit): Aplicación E-commerce.
+- [portfolio_profesional](https://github.com/Ivnme17/portfolio_profesional): Mi portafolio profesional.
+- [calculadora](https://github.com/Ivnme17/calculadora): Aplicación calculadora.
 
 ---
 
