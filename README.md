@@ -1,4 +1,50 @@
-## Statistics
+![image](https://github.com/user-attachments/assets/df6754eb-cd46-488d-be09-c905c4d9e410)
 
-Working Widgets:
-- Current Date and Time (UTC): 2026-02-11 10:17:28
+✨ Hola, soy Iván. ✨
+
+Bienvenid@ a mi perfil de GitHub.
+
+---
+
+### Sobre mí
+
+- Desarrollador full-stack con experiencia en SQL, PHP, Java y JavaScript.
+- Interesado en el desarrollo de software y en el aprendizaje continuo de nuevas tecnologías.
+- Explorando el potencial de la inteligencia artificial en la programación.
+
+---
+
+### Herramientas principales
+
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+---
+
+### Estadísticas de GitHub
+
+📊 Visita mi perfil en [GitHub](https://github.com/Ivnme17) para ver mis estadísticas y contribuciones.
+
+---
+
+### Proyectos destacados
+
+- [tempusFugit](https://github.com/Ivnme17/tempusFugit): Aplicación E-commerce.
+- [portfolio_profesional](https://github.com/Ivnme17/portfolio_profesional): Mi portafolio profesional.
+- [calculadora](https://github.com/Ivnme17/calculadora): Aplicación calculadora.
+
+---
+
+### Contacto
+
+- 📧 Email: ivnm17@gmail.com
+- 💼 LinkedIn: [Iván Martínez Estrada](https://www.linkedin.com/in/iv%C3%A1n-mart%C3%ADnez-estrada-408065342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+Gracias por visitar mi perfil.
